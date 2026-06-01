@@ -3,6 +3,7 @@
 */node_modules
 node_modules
 */build
+.vscode
 
 # Logs
 */logs
@@ -30,6 +31,7 @@ node_modules
 *.sublime-workspace
 
 # IDE - VSCode
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
